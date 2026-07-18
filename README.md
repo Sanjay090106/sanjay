@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanjay+S;Software+Developer+%7C+Freelancer)](https://git.io/typing-svg)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=084C52,031E21&center=true&vCenter=true&width=940&lines=Sanjay+S;Software+Developer+%7C+Freelancer" alt="Typing SVG" />
+
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Sanjay090106&label=PROFILE+VIEWS&color=0e7c7b&style=for-the-badge)](https://github.com/Sanjay090106)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spsanjay092006@gmail.com)
