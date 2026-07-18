@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanjay+S;Software+Developer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanjay+S;Software+Developer+%7C+Freelancer)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sanjay090106&label=PROFILE+VIEWS&color=0e7c7b&style=for-the-badge)](https://github.com/Sanjay090106)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
