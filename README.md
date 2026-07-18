@@ -13,11 +13,7 @@
 
 I am a Full Stack Developer specializing in the MERN stack, passionate about building scalable, high-performance web applications with clean, maintainable code. I enjoy developing intuitive user interfaces and robust backend systems while delivering secure, efficient, and production-ready solutions. I continuously explore modern technologies and best practices to build reliable software that creates real-world impact.
 
-</div>
 
----
-
-<div align="center">
 
 
 ### Languages
