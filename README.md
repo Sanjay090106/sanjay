@@ -1,12 +1,11 @@
 <div align="center">
 
-# Sanjay S
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanjay+S;Software+Developer;Freelancer)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sanjay090106&label=PROFILE+VIEWS&color=0e7c7b&style=for-the-badge)](https://github.com/Sanjay090106)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
-[![Connect](https://img.shields.io/badge/CONNECT-1f6feb?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spsanjay092006@gmail.com)
+
 
 ### Building FULL STACK APPLICATIONS
 
@@ -49,13 +48,13 @@ I am a Full Stack Developer specializing in the MERN stack, passionate about bui
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
----
+<!-- --- -->
 
-### Let's Connect
+<!-- ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
 [![Connect](https://img.shields.io/badge/CONNECT-1f6feb?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spsanjay092006@gmail.com)
-[![Contact](https://img.shields.io/badge/CONTACT-e05d44?style=for-the-badge)](https://github.com/Sanjay090106)
+
+[![Contact](https://img.shields.io/badge/CONTACT-e05d44?style=for-the-badge)](https://github.com/Sanjay090106) -->
 
 </div>
