@@ -5,27 +5,25 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-s-513a42310/)
+[![Connect](https://img.shields.io/badge/CONNECT-1F6FEB?style=for-the-badge)](https://www.linkedin.com/in/sanjay-s-513a42310/)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spsanjay092006@gmail.com)
 
 <br>
 
 ### Building FULL STACK APPLICATIONS
 
-I am a Full Stack Developer specializing in the MERN stack, passionate about building scalable, high-performance web applications with clean, maintainable code. I enjoy developing intuitive user interfaces and robust backend systems while delivering secure, efficient, and production-ready solutions. I continuously explore modern technologies and best practices to build reliable software that creates real-world impact.
-
-
-
+I'm a MERN stack developer passionate about building fast, scalable, and user-friendly web applications. I enjoy working across the entire stack — from designing clean UIs to building robust backend APIs. Always exploring new tools and best practices to write better code.
 
 ### Languages
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
